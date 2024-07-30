@@ -70,6 +70,8 @@ I'm a Front End Developer. Currently Persuing my B-TecH Degree. I am a 4-year st
 **Correct Guess**
 
 ![Mine_Green](https://github.com/user-attachments/assets/af87ce95-2e84-4301-a814-c281eb6c9d5e)
+
+
 **Wrong Guess**
 
 ![Mine_Red](https://github.com/user-attachments/assets/f640b750-a1cc-4fa4-9914-feb8df8599c4)
